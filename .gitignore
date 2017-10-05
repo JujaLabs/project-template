@@ -1,0 +1,14 @@
+### Java template
+*.class
+.idea
+*.iml
+
+# Package Files #
+*.jar
+*.war
+*.ear
+*.log
+/out
+!/gradle/wrapper/gradle-wrapper.jar
+.gradle/
+build/
